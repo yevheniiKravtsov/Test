@@ -1,10 +1,1 @@
-asdasd
-lubie logować się i nie wylogowywać 
-<3
-
-
-
-
-
-
-karny commit
+nr_indeksu 195092 nr_grupy IO2
